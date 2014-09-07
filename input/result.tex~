@@ -5,8 +5,8 @@
 \item  DFDs will be prepared showing various interactions between users and the system.
 
 \item  Selecting the technology for developing the project and installing the required tools for developing the project. We will install Flex, Bison and C and C++ compiler.
-\item Developing the Parser. The program whch will actually conert the file formats.
-
+\item Developing the UI(frontend) The interface through which user can interact will be developed.
+\item Developing the kernel(backend) It can said as database for GDCAD where the storage is done.
 \item Testing the system by running it 
 
 \end{itemize}

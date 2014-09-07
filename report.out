@@ -1,58 +1,18 @@
 \BOOKMARK [1][]{section.1}{Introduction To Organisation}{}% 1
 \BOOKMARK [2][]{subsection.1.1}{Testing and Consutancy Cell}{section.1}% 2
 \BOOKMARK [1][]{section.2}{Introduction}{}% 3
-\BOOKMARK [2][]{subsection.2.1}{Software requirements}{section.2}% 4
-\BOOKMARK [2][]{subsection.2.2}{Hardware Requirements}{section.2}% 5
-\BOOKMARK [1][]{section.3}{Django}{}% 6
-\BOOKMARK [2][]{subsection.3.1}{Introduction to Django}{section.3}% 7
-\BOOKMARK [3][]{subsubsection.3.1.1}{Installation of Django}{subsection.3.1}% 8
-\BOOKMARK [3][]{subsubsection.3.1.2}{MTV}{subsection.3.1}% 9
-\BOOKMARK [3][]{subsubsection.3.1.3}{Creating Project in Django}{subsection.3.1}% 10
-\BOOKMARK [3][]{subsubsection.3.1.4}{Development Server in Django}{subsection.3.1}% 11
-\BOOKMARK [3][]{subsubsection.3.1.5}{Database setup}{subsection.3.1}% 12
-\BOOKMARK [3][]{subsubsection.3.1.6}{Django Applications used :}{subsection.3.1}% 13
-\BOOKMARK [1][]{section.4}{Python}{}% 14
-\BOOKMARK [1][]{section.5}{LaTeX}{}% 15
-\BOOKMARK [2][]{subsection.5.1}{Introduction to LaTeX}{section.5}% 16
-\BOOKMARK [2][]{subsection.5.2}{Typesetting}{section.5}% 17
-\BOOKMARK [2][]{subsection.5.3}{Installing LaTeX on System}{section.5}% 18
-\BOOKMARK [2][]{subsection.5.4}{Graphical Editors for LaTeX}{section.5}% 19
-\BOOKMARK [2][]{subsection.5.5}{Making Graphics in LaTeX}{section.5}% 20
-\BOOKMARK [2][]{subsection.5.6}{Pdfscreen LaTeX}{section.5}% 21
-\BOOKMARK [2][]{subsection.5.7}{Web based graphic generation using LaTeX}{section.5}% 22
-\BOOKMARK [1][]{section.6}{Introduction to PHP}{}% 23
-\BOOKMARK [2][]{subsection.6.1}{Overview}{section.6}% 24
-\BOOKMARK [2][]{subsection.6.2}{Colon Syntax}{section.6}% 25
-\BOOKMARK [2][]{subsection.6.3}{Data types}{section.6}% 26
-\BOOKMARK [2][]{subsection.6.4}{Functions}{section.6}% 27
-\BOOKMARK [1][]{section.7}{Introduction to MySQL}{}% 28
-\BOOKMARK [2][]{subsection.7.1}{Queries}{section.7}% 29
-\BOOKMARK [2][]{subsection.7.2}{Create a Connection to a MySQL Database}{section.7}% 30
-\BOOKMARK [2][]{subsection.7.3}{Closing a Connection}{section.7}% 31
-\BOOKMARK [1][]{section.8}{Project Work}{}% 32
-\BOOKMARK [2][]{subsection.8.1}{Feasibility Study}{section.8}% 33
-\BOOKMARK [2][]{subsection.8.2}{System Design}{section.8}% 34
-\BOOKMARK [2][]{subsection.8.3}{Implementation Of Project}{section.8}% 35
-\BOOKMARK [3][]{subsubsection.8.3.1}{Fetching of data from the database}{subsection.8.3}% 36
-\BOOKMARK [3][]{subsubsection.8.3.2}{Typesetting of data}{subsection.8.3}% 37
-\BOOKMARK [3][]{subsubsection.8.3.3}{Creating a DVI file}{subsection.8.3}% 38
-\BOOKMARK [3][]{subsubsection.8.3.4}{Creating a postscript file}{subsection.8.3}% 39
-\BOOKMARK [3][]{subsubsection.8.3.5}{Use In Printing}{subsection.8.3}% 40
-\BOOKMARK [3][]{subsubsection.8.3.6}{Creating a PDF file}{subsection.8.3}% 41
-\BOOKMARK [3][]{subsubsection.8.3.7}{Imposition of the pdf}{subsection.8.3}% 42
-\BOOKMARK [3][]{subsubsection.8.3.8}{Color separation of the pdf}{subsection.8.3}% 43
-\BOOKMARK [3][]{subsubsection.8.3.9}{RGB}{subsection.8.3}% 44
-\BOOKMARK [3][]{subsubsection.8.3.10}{CMYK}{subsection.8.3}% 45
-\BOOKMARK [3][]{subsubsection.8.3.11}{RGB to CMYK}{subsection.8.3}% 46
-\BOOKMARK [2][]{subsection.8.4}{Evaluation and Maintenance}{section.8}% 47
-\BOOKMARK [2][]{subsection.8.5}{RGB To CMYK Example :-}{section.8}% 48
-\BOOKMARK [1][]{section.9}{Results and Discussions}{}% 49
-\BOOKMARK [1][]{section.10}{Conclusion and Future Scope}{}% 50
-\BOOKMARK [2][]{subsection.10.1}{Conclusion}{section.10}% 51
-\BOOKMARK [2][]{subsection.10.2}{Current status}{section.10}% 52
-\BOOKMARK [2][]{subsection.10.3}{Scope}{section.10}% 53
-\BOOKMARK [1][]{section.11}{Coding}{}% 54
-\BOOKMARK [2][]{subsection.11.1}{}{section.11}% 55
-\BOOKMARK [2][]{subsection.11.2}{PHP coding}{section.11}% 56
-\BOOKMARK [2][]{subsection.11.3}{Main LaTeX Code}{section.11}% 57
-\BOOKMARK [1][]{section.12}{Bibliography}{}% 58
+\BOOKMARK [1][]{section.3}{Introduction to FEM}{}% 4
+\BOOKMARK [2][]{subsection.3.1}{Finite Element Analysis}{section.3}% 5
+\BOOKMARK [2][]{subsection.3.2}{FEM Software-Calculix}{section.3}% 6
+\BOOKMARK [1][]{section.4}{Introduction to DXF}{}% 7
+\BOOKMARK [2][]{subsection.4.1}{General File Structure}{section.4}% 8
+\BOOKMARK [1][]{section.5}{Problem Formulation}{}% 9
+\BOOKMARK [2][]{subsection.5.1}{Scope and Objectives}{section.5}% 10
+\BOOKMARK [1][]{section.6}{Project Work}{}% 11
+\BOOKMARK [2][]{subsection.6.1}{Feasibility Study}{section.6}% 12
+\BOOKMARK [2][]{subsection.6.2}{System Design}{section.6}% 13
+\BOOKMARK [1][]{section.7}{Methodology/Planning of Working}{}% 14
+\BOOKMARK [1][]{section.8}{Facilities for Proposed Work}{}% 15
+\BOOKMARK [2][]{subsection.8.1}{Software Requirements}{section.8}% 16
+\BOOKMARK [2][]{subsection.8.2}{Hardware Requirements}{section.8}% 17
+\BOOKMARK [1][]{section.9}{Bibliography}{}% 18
